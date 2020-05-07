@@ -43,14 +43,15 @@ Structure of the framework:
 Output result log:
 
 Launch the App-test
+
 log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAddCookies).
 log4j:WARN Please initialize the log4j system properly.
 log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
-==========================
+
 Tap on More information about this dealer
 Element not displayed
 Element is not present
-==========================
+
 Tap on menu icon
 Element is displayed
 The home menu icon is present
